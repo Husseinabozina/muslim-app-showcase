@@ -16,15 +16,14 @@ It provides accurate prayer times with smart notifications, Qibla direction, ful
 ## 🇸🇦🇪🇬 نبذة عن تطبيق قرآني
 
 تطبيق **قرآني (Qurani)** هو تطبيق إسلامي بسيط وحديث وبدون إعلانات، مبني باستخدام Flutter.  
-يوفّر لك مواقيت صلاة دقيقة مع تنبيهات، واتجاه القبلة، وقسمًا كاملًا للقرآن الكريم مع التفسير، وأذكار الصباح والمساء، ومتن الأربعين النووية، بالإضافة إلى عرض التاريخ الهجري، مع تصميم مناسب للاستخدام الشخصي على الجوال وكذلك للعرض على شاشات المساجد.
+يوفّر لك مواقيت صلاة دقيقة مع تنبيهات، واتجاه القبلة، وقسمًا كاملًا للقرآن الكريم مع التفسير، وأذكار الصباح والمساء، ومتن الأربعين النووية، بالإضافة إلى عرض التاريخ الهجري، مع تصميم مناسب للاستخدام الشخصي على الجوال 
 
 ---
 
 ## 📱 Download
 
-- **Android APK**: [Download latest version](PUT_YOUR_APK_LINK_HERE)
+- **Android APK**: [Download latest version]((https://github.com/Husseinabozina/muslim-app-showcase/releases/download/v1.0.0/qurani.apk))
 
-> استبدل `PUT_YOUR_APK_LINK_HERE` برابط ملف الـ APK من صفحة الـ Release.
 
 ---
 
@@ -60,12 +59,14 @@ It provides accurate prayer times with smart notifications, Qibla direction, ful
 
 ## 🖼️ Screenshots
 
-> Screenshots are stored inside the `screenshot/` folder in this repository.  
-> Rename the files below to match your actual image names if needed.
+> Screenshots are stored inside the `screenshots/` folder in this repository.  
 
-| Home Screen | Prayer Times | Quran | Qibla |
-|------------|--------------|-------|-------|
-| ![Home](screenshot/home.png) | ![Prayer Times](screenshot/prayer-times.png) | ![Quran](screenshot/quran.png) | ![Qibla](screenshot/qibla.png) |
+![Qurani Screenshot 1](screenshots/screenshot_1.png)
+![Qurani Screenshot 2](screenshots/screenshot_2.png)
+![Qurani Screenshot 3](screenshots/screenshot_3.png)
+![Qurani Screenshot 4](screenshots/screenshot_4.png)
+![Qurani Screenshot 5](screenshots/screenshot_5.png)
+![Qurani Screenshot 6](screenshots/screenshot_6.png)
 
 ---
 
@@ -78,8 +79,6 @@ Here you can find:
 - A public APK for testing the app  
 - Screenshots from the app  
 - A quick overview of the main features  
-
-You can use this link in your **CV, LinkedIn, portfolio, and freelance proposals** to demonstrate your work.
 
 ---
 
