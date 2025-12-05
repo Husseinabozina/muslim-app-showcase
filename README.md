@@ -61,13 +61,17 @@ It provides accurate prayer times with smart notifications, Qibla direction, ful
 
 > Screenshots are stored inside the `screenshots/` folder in this repository.  
 
-![Qurani Screenshot 1](screenshots/screenshot_1.png)
-![Qurani Screenshot 2](screenshots/screenshot_2.png)
-![Qurani Screenshot 3](screenshots/screenshot_3.png)
-![Qurani Screenshot 4](screenshots/screenshot_4.png)
-![Qurani Screenshot 5](screenshots/screenshot_5.png)
-![Qurani Screenshot 6](screenshots/screenshot_6.png)
+<p align="center">
+  <img src="screenshots/screenshot_1.png" width="30%" />
+  <img src="screenshots/screenshot_2.png" width="30%" />
+  <img src="screenshots/screenshot_3.png" width="30%" />
+</p>
 
+<p align="center">
+  <img src="screenshots/screenshot_4.png" width="30%" />
+  <img src="screenshots/screenshot_5.png" width="30%" />
+  <img src="screenshots/screenshot_6.png" width="30%" />
+</p>
 ---
 
 ## ℹ️ About this Repository
