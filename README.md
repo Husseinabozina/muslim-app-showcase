@@ -91,7 +91,10 @@ Here you can find:
 - **Developer**: Hussein Abozina  
 - **Email**: abozina50@gmail.com
 
+---
 
-
-
- 
+<p align="center">
+  <a href="https://hussein-abozina-portfolio.vercel.app/projects/qurany.html" title="View Qurani on Hussein Abozina's portfolio">
+    <img src="https://img.shields.io/badge/View%20on-Portfolio-0B5544?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="View Qurani on portfolio" />
+  </a>
+</p>
